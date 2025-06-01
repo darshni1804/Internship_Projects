@@ -1,2 +1,2 @@
-# house_prices_dataanalysis
+# SummerInternship_projects
 Internsip project
